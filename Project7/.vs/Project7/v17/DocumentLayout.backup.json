@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ivan\\onedrive\\desktop\\project7-buses-main\\project7-buses-main\\project7\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ivan\\onedrive\\desktop\\project7-buses-main\\project7-buses-main\\project7\\consoleapp\\extensions\\passengerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\extensions\\passengerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ivan\\onedrive\\desktop\\project7-buses-main\\project7-buses-main\\project7\\consoleapp\\models\\bus.partial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\bus.partial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ivan\\onedrive\\desktop\\project7-buses-main\\project7-buses-main\\project7\\consoleapp\\models\\bussystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\bussystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ivan\\onedrive\\desktop\\project7-buses-main\\project7-buses-main\\project7\\consoleapp\\models\\busbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\busbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ivan\\onedrive\\desktop\\project7-buses-main\\project7-buses-main\\project7\\consoleapp\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ivan\\onedrive\\desktop\\project7-buses-main\\project7-buses-main\\project7\\consoleapp\\reports\\report_all_trips.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\reports\\report_all_trips.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\ivan\\onedrive\\desktop\\project7-buses-main\\project7-buses-main\\project7\\consoleapp\\models\\bus.partial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A3FBFD-A877-AB3A-3856-A3E51268C209}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\models\\bus.partial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:20:40.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusSystem.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Models\\BusSystem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\BusSystem.cs",
+              "ToolTip": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Models\\BusSystem.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\BusSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:19:15.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Models\\Passenger.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\Passenger.cs",
+              "ToolTip": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Models\\Passenger.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\Passenger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:19:12.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "report_all_trips.txt",
+              "DocumentMoniker": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Reports\\report_all_trips.txt",
+              "RelativeDocumentMoniker": "ConsoleApp\\Reports\\report_all_trips.txt",
+              "ToolTip": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Reports\\report_all_trips.txt",
+              "RelativeToolTip": "ConsoleApp\\Reports\\report_all_trips.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-07T14:19:09.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PassengerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Extensions\\PassengerExtensions.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Extensions\\PassengerExtensions.cs",
+              "ToolTip": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Extensions\\PassengerExtensions.cs",
+              "RelativeToolTip": "ConsoleApp\\Extensions\\PassengerExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:05:50.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusBase.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Models\\BusBase.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\BusBase.cs",
+              "ToolTip": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Models\\BusBase.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\BusBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:05:45.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bus.partial2.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Models\\Bus.partial2.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\Bus.partial2.cs",
+              "ToolTip": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Models\\Bus.partial2.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\Bus.partial2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:05:43.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bus.partial1.cs",
+              "DocumentMoniker": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Models\\Bus.partial1.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Models\\Bus.partial1.cs",
+              "ToolTip": "C:\\Users\\ivan\\OneDrive\\Desktop\\project7-buses-main\\project7-buses-main\\Project7\\ConsoleApp\\Models\\Bus.partial1.cs",
+              "RelativeToolTip": "ConsoleApp\\Models\\Bus.partial1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T14:05:37.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

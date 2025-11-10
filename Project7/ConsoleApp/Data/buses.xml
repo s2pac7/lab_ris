@@ -1,0 +1,26 @@
+<buses>
+  <bus id="A1">
+    <route>Минск - Гродно</route>
+    <totalSeats>5</totalSeats>
+    <passengers>
+      <passenger>
+        <name>Иванов И.И.</name>
+        <seat>1</seat>
+      </passenger>
+      <passenger>
+        <name>Петров П.П.</name>
+        <seat>2</seat>
+      </passenger>
+    </passengers>
+  </bus>
+  <bus id="B2">
+    <route>Минск - Брест</route>
+    <totalSeats>4</totalSeats>
+    <passengers>
+      <passenger>
+        <name>Сидоров С.С.</name>
+        <seat>1</seat>
+      </passenger>
+    </passengers>
+  </bus>
+</buses>
